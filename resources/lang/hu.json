@@ -1,0 +1,16 @@
+{
+    "Registered successfully!": "Sikeres regisztráció",
+    "Login failed!": "Sikertelen belépés!",
+    "Logged in successfully!": "Sikeres belépés!",
+    "Logout successfully!": "Sikeres kilépés!",
+    "The requested page can be accessed only for users!": "A megtekinteni kívánt oldal csak belépett állapotban elérhető!",
+    "The requested page can be accessed only for guests!": "A megtekinteni kívánt oldal csak vendégeknek elérhető!",
+    "The category successfully created!": "A kategória sikeresen létrehozva.",
+    "The category is successfully edited!": "A kategória sikeresen módosítva!",
+      "The category is successfully deleted!": "A kategória sikeresen törölve!",
+      "Successfully edited!": "Sikeresen módosítva!",
+      "The tool successfully created!":"Az eszköz sikeresen létrehozva!",
+     "The tool is successfully deleted!":"Az eszköz sikeresen törölve!",
+    "The tag successfully created!":"A címke sikeresen létrehozva!"
+
+}
